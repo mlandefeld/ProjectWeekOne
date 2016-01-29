@@ -1,0 +1,6 @@
+c:\users\margaret landefeld\documents\visual studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\bin\Debug\BootcampLibraryCheckoutSystem.exe.config
+C:\Users\Margaret Landefeld\Documents\Visual Studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\bin\Debug\BootcampLibraryCheckoutSystem.exe
+C:\Users\Margaret Landefeld\Documents\Visual Studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\bin\Debug\BootcampLibraryCheckoutSystem.pdb
+C:\Users\Margaret Landefeld\Documents\Visual Studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\obj\Debug\BootcampLibraryCheckoutSystem.csprojResolveAssemblyReference.cache
+C:\Users\Margaret Landefeld\Documents\Visual Studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\obj\Debug\BootcampLibraryCheckoutSystem.exe
+C:\Users\Margaret Landefeld\Documents\Visual Studio 2015\Projects\BootcampLibraryCheckoutSystem\BootcampLibraryCheckoutSystem\obj\Debug\BootcampLibraryCheckoutSystem.pdb
